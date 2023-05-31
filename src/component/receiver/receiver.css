@@ -1,0 +1,38 @@
+.receiver{
+    background-color: rgb(160, 194, 224);
+    height: 50vh;
+    margin-left: 120px;
+    border-top-left-radius: 820px;
+    border-bottom-left-radius: 2200px;
+    margin-top: 200px;
+}
+.wrapper-receive{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.left-rec{
+    background-image: url("../../Image/blue.png");
+    background-size: 75%;
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    margin-left: -40px;
+    
+    
+}
+.use-im{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -80px;
+    left: 110px;
+}
+.right-rec{
+    margin-right: 120px;
+}

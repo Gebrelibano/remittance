@@ -1,0 +1,95 @@
+/* @import url("../../Image/hcrle.png"); */
+.Home {
+  height: 100vh;
+  background-image: url("../../Image/hcrle.png");
+  position: sticky;
+  box-sizing: border-box;
+  border-bottom-right-radius: 60%;
+  border-bottom-left-radius: 70%;
+}
+.H-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 15px;
+  color: white;
+}
+.left {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+.center {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+.right {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+gap: 15px;
+}
+.icon {
+  margin-right: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+ 
+}
+.h-d {
+  display: flex;
+  background-color: rgb(53, 246, 53);
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  border-radius: 10px;
+  margin: 0 5%;
+  border: 2px solid rgb(53, 246, 53);
+}
+.d-right {
+  display: flex;
+  align-items: center;
+}
+
+.h-d-list {
+  margin-right: 25px;
+  cursor: pointer;
+}
+.h-d-list:hover{
+   border: 1px solid ;
+   padding: 1px 3px;
+   background-color: rgb(70, 70, 255);
+}
+.h-d:hover {
+  border: 2px solid rgb(81, 81, 247);
+}
+.icons {
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  width: 20px;
+  cursor: pointer;
+ 
+}
+.icons:hover{
+    cursor: pointer;
+    background-color: rgb(70, 70, 255);
+    border: 1px solid rgb(228, 60, 60);
+  
+}
+p{
+    margin-left: 60px;
+    color: white;
+    margin-top: 40px;
+}
+.btn{
+    margin-left: 240px;
+    margin-top: 40px; 
+    background-color: rgb(53, 246, 53);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;    
+}
+ 

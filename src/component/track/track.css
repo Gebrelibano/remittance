@@ -1,0 +1,74 @@
+.track{
+    background-image: url("../../Image/bgm.png");
+    background-repeat: no-repeat;
+    background-size: 85%;
+    height: 750px;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.heed{
+    background-color: rgb(12, 99, 12);
+   margin-top: 75px;
+   margin-right: 100px;
+   margin-left: 85px;
+    position: absolute;
+    height: 600px;
+    border-radius: 10px;
+    top: -25px;
+}
+.h-track{
+    color: white;
+    margin: 10px 0px;
+    padding: 15px 0px;
+}
+.t-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+}
+.tra-left{
+    color: white;
+    flex: 1;
+    margin-left: 30px;
+    position: relative;
+    
+}
+.equal{
+    background-color: gainsboro;
+    margin: 20px;
+    width: 64px;
+    border-radius: 50%;
+    position: absolute;
+    bottom:-280px ;
+    left: 1px;
+}
+.tra-right{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    position: relative;
+    margin-left: 0px;
+}
+.dolar{
+    
+    margin-right: 5px;
+    background-color: gainsboro;
+  border-radius: 100%;
+ 
+    
+}
+.truck{
+    position: absolute;
+    bottom: -200px;
+    right: 30px;
+    margin: 0px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    background-color:rgb(142, 187, 142) ;
+}

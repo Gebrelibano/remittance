@@ -1,0 +1,128 @@
+.Rimetance{
+margin: 105px 15px;
+background-color: rgb(107, 244, 107);
+padding: 30px -20px;
+height: 80vh;
+position: relative;
+}
+.why{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+   
+}
+.w{
+    margin-top: 85px;
+    margin-left: 200px;
+}
+.circle{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-top-left-radius: 300px;
+    border-bottom-left-radius: 450px;
+   margin-right: 236px;
+   position: absolute;
+   top: -80px;
+   right: 90px;
+}
+.apppl{
+    width: 106px;
+    height: 106px;
+}
+.two-circle{
+    position: relative;
+    margin-right: 20px;
+}
+.clok{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    top: 85px;
+    right: 30px;
+}
+.easy{
+    margin-top: -20px;
+}
+.wi{
+    margin-bottom: -8px;
+}
+.sp-wrapper{
+         display: flex;
+         align-items: center;
+         justify-content: space-around;
+       
+}
+.left-sp{
+    margin-left: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.right-imsp{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    margin-left: 300px;
+    border-top-left-radius: 1900px;
+    border-bottom-left-radius: 2000px;
+}
+.wowd{
+    position: relative;
+}
+.mapp{
+    width: 106px;
+    height: 106px;
+    margin-right: 10px;
+
+}
+.addminst{
+    position: absolute;
+    top: 75px;
+    right: 30px;
+    width: 10px;
+    height: 10px;
+  
+}
+.all{
+   margin-top: -20px;
+
+}
+.saf{
+    margin-bottom: -8px;
+}
+.botttom{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin: 20px 190px 0px 260px;
+    border-top-left-radius: 3810px;
+    border-bottom-left-radius: 3990px;
+    border-top-right-radius: 300px;
+    position: absolute;
+    bottom: -40px;
+    left: 40px;
+    height: 130px;
+}
+.lgree{
+    position: relative;
+}
+.gret{
+    width: 106px;
+    height: 106px;
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+.leg{
+    position: absolute;
+    top: 80px;
+    right: 29px;
+}
+.trust{
+    margin-top: -20px;
+}
+.million{
+    margin-bottom: -8px;
+}

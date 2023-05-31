@@ -1,0 +1,33 @@
+.input{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   background-color: rgb(91, 119, 91);
+   margin: 10px 20px;
+   height: 100px;
+}
+.le-input{
+
+}
+.ri-input{
+   display: flex;
+   align-items: center;
+   background-color: rgb(252, 252, 250);
+   width: 210px;
+    padding-right: px;
+}
+.ri-input:hover{
+   border: 2px  solid blue;
+}
+.int{
+ flex: 10;
+ display: flex;
+ align-items: center;
+ padding: 10px;
+}
+.icobi{
+ /* flex: 1; */
+ margin-right: -00px;
+ cursor: pointer;
+
+}

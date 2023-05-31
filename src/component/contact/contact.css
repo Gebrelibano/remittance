@@ -1,0 +1,67 @@
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    
+
+}
+.lef-contact{
+    background-image: url("../../Image/IOT.png");
+    background-repeat: no-repeat;
+    background-size: 600px;
+    flex: 1;
+    margin-left: 20px;
+}
+.call-h{
+  margin-bottom: 1px;
+  color: white;
+  margin-left: 30px;
+}
+
+.request{
+    color: rgb(255, 255, 255);
+    margin-left: 15px;
+    
+}
+
+.ionn{
+    color: black;
+    font-weight: bold;
+    width: 50px;
+  
+    margin-top: 30px;
+}
+.ri-contact{
+flex: 1;
+margin-left: 10px;
+
+}
+
+.us-h{
+ color: black;
+ border-bottom: 1px solid;
+ width: 90px;
+}
+
+.contact-input{
+ margin-bottom: 25px;
+}
+.place{
+   border-bottom: 2px solid;
+   margin-bottom: 25px;
+}
+.mesege{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(67, 134, 67);
+    color: white;
+    padding: 5px 5px;
+    width: 180px;
+
+}
+.bsico:hover{
+    color: blue;
+    cursor: pointer;
+}

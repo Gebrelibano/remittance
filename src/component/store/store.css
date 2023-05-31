@@ -1,0 +1,86 @@
+.store{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: -90px;
+}
+.stor-left{
+    flex: 1;
+    margin-left: 40px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+.stor-left>img{
+    height: 70vh;
+    width: 100%;
+}
+.stor-right{
+    flex: 1;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    padding-left: 30px;
+    margin-right: 5px;
+}
+h1{
+    text-align: center;
+    color: rgb(21, 229, 21);
+}
+.stor-logo{
+    
+
+}
+.E-inpt{
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid rgb(146, 251, 146);;
+    width: 450px;
+    padding-bottom: 15px;
+}
+.password{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 5px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid rgb(127, 246, 127);;
+    width: 450px;
+    padding-bottom: 15px ;
+}
+.pasword{
+    margin-left: -120px;
+}
+.Aicon{
+       width: 30px;
+       height: 20px;
+       color: rgb(105, 172, 105);
+   
+}
+input{
+    border: none;
+    width: 50%;
+}
+input:focus{
+    outline: none;
+}
+.chek{
+    margin-left: -30%;
+}
+.la-re{
+    margin-left: -22%;
+}
+a{
+    margin-left: 22%;
+}
+.logi{
+    display: flex;
+    align-items: center;
+   margin-top: 50px;
+   margin-left: 25%;
+   width: 200px;
+   justify-content: center;
+   cursor: pointer;
+   background-color: rgb(87, 205, 87);
+   border-radius: 30px;
+
+}

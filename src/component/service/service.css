@@ -1,0 +1,40 @@
+.service{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.left-ser{
+    margin-left: 25px;
+    flex: 1;
+}
+.right-ser{
+    margin-right: 15px;
+    flex: 1;
+}
+.fast{
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.harow{
+   margin-right: 15px;
+   display: flex;
+   align-items: center;
+   margin-top: 40px;
+}
+.tran{
+   margin-bottom: -5px;
+   margin-top: 35px;
+}
+.secure{
+    display: flex;
+}
+.key{
+    margin-right: 15px;
+   display: flex;
+   align-items: center;
+   margin-top: 40px;
+}
+.sec{
+    margin-bottom: -5px;
+}

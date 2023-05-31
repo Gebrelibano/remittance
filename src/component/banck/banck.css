@@ -1,0 +1,109 @@
+.Banck{
+    height: 100vh;
+    width: 97%;
+    margin-top: 5px;
+    margin-left: 39px;
+
+
+
+
+}
+
+.b-wrappe{
+    display: flex;
+    background-color: rgb(30, 85, 30);
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: rgba(49, 46, 46, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+}
+.badep{
+    color: white;
+    margin-left: 30px;
+    padding-left: 20px;
+}
+.left--lore{
+    color: white;
+    margin-left: 20px;
+}
+.ico{
+    width: 50px;
+    height: 30px;
+    color: white;
+    cursor: pointer;
+
+}
+.ico:hover{
+    cursor: pointer;
+    color: rgb(37, 37, 221);
+
+}
+.right{
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(185, 185, 238, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.img-ri{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    margin-left: 40%;
+
+}
+.rig--lore{
+    color: white;
+    margin-left: 20px;
+}
+.r-badp{
+    text-align: center;
+    color: white;
+}
+.learn-btn{
+    display: flex;
+    align-items: center;
+   margin-top: 30px;
+   margin-left: 25%;
+   width: 100px;
+   padding: 10px;
+   justify-content: center;
+   cursor: pointer;
+   background-color: rgb(87, 205, 87);
+   border-radius: 30px;
+   margin-bottom: 20px;
+    
+}
+.our{
+    color: black;
+}
+.partner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.silv{
+    margin-right: 20px;
+}
+.awash{
+    margin-right: 20px;
+}
+.buna{
+    margin-right: 20px;
+}
+.oromiya{
+    margin-right: 20px;
+}
+.wegagn{
+    margin-right: 20px;
+}
+.hebre{
+    margin-right: 20px;
+}

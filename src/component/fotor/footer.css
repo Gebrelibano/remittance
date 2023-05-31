@@ -1,0 +1,48 @@
+.footer{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+    background-color: black;
+}
+.FO-site{
+    color: white;
+    flex: 1;
+    margin-left: 10px;
+}
+.sln{
+    margin-left: 30px;
+}
+.follow{
+    color: white;
+    margin-top: 10px;
+}
+.cases{
+    flex: 1;
+    color: white;
+}
+.uwtc{
+    margin-left: 80px;
+}
+.campany{
+    flex: 1;
+    color: white;
+    margin-left: 80px;
+}
+.atfrc{
+    margin-left: 100px;
+    cursor: pointer;
+}
+.folow{
+    flex: 1;
+    color: white;
+    margin-top: 120px;
+}
+.ffbtb{
+    margin-left: 10px;
+    gap: 15px;
+}
+.iconlo{
+    margin-right: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+}
