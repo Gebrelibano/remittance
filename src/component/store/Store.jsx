@@ -7,7 +7,7 @@ const Store = () => {
   return (
     <div className='store'>
         <div className='stor-left'>
-            <img src={Frame124} alt="" srcset="" />
+            <img src='https://images.unsplash.com/photo-1589519160142-7d1a51b43eaf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80' alt="map hand" srcset="" />
         </div>
         <div className='stor-right'>
           <form action="">
